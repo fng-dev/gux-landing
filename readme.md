@@ -22,11 +22,11 @@ Primero clone el repositorio
 
 `git clone https://github.com/fng-dev/gux-landing.git`  
 
-## Instalar Dependencias
+## Instalar Dependencias Composer
 
 `composer install`  
 
-## Instalar Dependencias Front
+## Instalar Dependencias NPM
 
 `npm install`  
 
